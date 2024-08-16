@@ -1,4 +1,5 @@
-# car-price-prediction
+#CAR PRICE PREDICTION
+
 Project Overview: 
 This project focuses on building a machine learning model that can accurately predict the selling price of a car based on various features such as mileage, year, make, model, and location. The final output is a cloud-deployed application that provides users with valuable insights and price predictions.
 
