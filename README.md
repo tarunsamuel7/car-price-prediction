@@ -55,4 +55,4 @@ User Recommendations:
 Buyers: Focus on newer, low-mileage vehicles.
 Sellers: Highlight the car's age and mileage in listings to attract buyers.
 
-streamlit Link: https://car-price-prediction-nrrj2dzcwnzhj8jmygenqy.streamlit.app/ 
+Streamlit App Demo: https://car-price-prediction-nrrj2dzcwnzhj8jmygenqy.streamlit.app/ 
